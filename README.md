@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ian Githinji.
-- 👀 I’m a data analyst who is passionate about data, tech and health & wellness.
+- 👀 I’m a data analyst who is passionate about data, tech and health & well-being.
 - 🌱 I’m currently learning data science.
 - 💞️ I’m open for collaboration:Let's crunch and analyze data and innovate.
 - 📫 Lets connect on
