@@ -2,7 +2,7 @@
 - 👀 I’m a data analyst who is passionate about data, tech and health & well-being.
 - 🌱 I’m currently learning data science.
 - 💞️ I’m open for collaboration:Let's crunch and analyze data and innovate.
-- 📫 Lets connect [TWITTER](onhttps://x.com/DatawithIan) 
+- 📫 Lets connect [TWITTER](#onhttps://x.com/DatawithIan) 
 - ⚡ Fun fact: The human brain's 86 billion neurons form a network resembling a sophisticated data processor, constantly analyzing and interpreting information.
 
 <!---
